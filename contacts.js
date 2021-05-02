@@ -6,22 +6,16 @@ const db = {}
 const defaultData = {
   contacts: [
     {
-      id: 'ryan',
-      name: 'Ryan Florence',
-      email: 'ryan@reacttraining.com',
+      id: 'Akshay',
+      name: 'Akshay Kumar',
+      email: 'akshay.kumar@test.com',
       avatarURL: config.origin + '/ryan.jpg'
     },
     {
-      id: 'michael',
-      name: 'Michael Jackson',
-      email: 'michael@reacttraining.com',
+      id: 'Akshay1',
+      name: 'Akshay Kumar 1',
+      email: 'ak1@test.com',
       avatarURL: config.origin + '/michael.jpg'
-    },
-    {
-      id: 'tyler',
-      name: 'Tyler McGinnis',
-      email: 'tyler@reacttraining.com',
-      avatarURL: config.origin + '/tyler.jpg'
     }
   ]
 }
